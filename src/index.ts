@@ -1,9 +1,4 @@
-import * as debug from 'debug';
-
 import * as emojis from '../emojis.json';
-
-const log = debug('emojis');
-debug.enable('*');
 
 async function main() {
 	for (const [name, emoji] of Object.entries(emojis)) {

@@ -7,9 +7,7 @@ debug.enable('*');
 
 async function main() {
 	for (const [name, emoji] of Object.entries(emojis)) {
-		const twe = char2file(emoji.char);
-		console.log(name);
-		console.log(twe);
+		console.log(`${emoji.char} ${name}`);
 	}
 }
 

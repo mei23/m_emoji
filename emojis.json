@@ -4627,7 +4627,7 @@
   },
   "chess_pawn": {
     "keywords": ["expendable"],
-    "char": "♟",
+    "char": "♟️",
     "fitzpatrick_scale": false,
     "category": "activity"
   },

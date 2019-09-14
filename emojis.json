@@ -7932,27 +7932,21 @@
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
-  "white_circle": {
-    "keywords": ["shape", "round"],
-    "char": "⚪",
-    "fitzpatrick_scale": false,
-    "category": "symbols"
-  },
   "black_circle": {
     "keywords": ["shape", "button", "round"],
     "char": "⚫",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
-  "red_circle": {
-    "keywords": ["shape", "error", "danger"],
-    "char": "🔴",
+  "white_circle": {
+    "keywords": ["shape", "round"],
+    "char": "⚪",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
-  "large_blue_circle": {
-    "keywords": ["shape", "icon", "button"],
-    "char": "🔵",
+  "red_circle": {
+    "keywords": ["shape", "error", "danger"],
+    "char": "🔴",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
@@ -7971,6 +7965,12 @@
   "green_circle": {
     "keywords": ["shape"],
     "char": "🟢",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "large_blue_circle": {
+    "keywords": ["shape", "icon", "button"],
+    "char": "🔵",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },

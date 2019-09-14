@@ -6575,6 +6575,12 @@
     "fitzpatrick_scale": false,
     "category": "objects"
   },
+  "transgender_flag": {
+    "keywords": ["flag", "transgender"],
+    "char": "🏳️‍⚧️",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
   "closed_lock_with_key": {
     "keywords": ["security", "privacy"],
     "char": "🔐",
@@ -6921,6 +6927,12 @@
   "atom_symbol": {
     "keywords": ["science", "physics", "chemistry"],
     "char": "⚛",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "transgender_symbol": {
+    "keywords": ["purple-square", "woman", "female", "toilet", "loo", "restroom", "gender"],
+    "char": "⚧️",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },

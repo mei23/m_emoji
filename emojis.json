@@ -533,6 +533,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "yawning": {
+    "keywords": ["face", "tired", "yawning"],
+    "char": "🥱",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "sleeping": {
     "keywords": ["face", "tired", "sleepy", "night", "zzz"],
     "char": "😴",
@@ -755,6 +761,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "mechanical_arm": {
+    "keywords": ["flex", "hand", "strong", "biceps"],
+    "char": "🦾",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "pray": {
     "keywords": ["please", "hope", "wish", "namaste", "highfive"],
     "char": "🙏",
@@ -771,6 +783,12 @@
     "keywords": ["kick", "limb"],
     "char": "🦵",
     "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "mechanical_leg": {
+    "keywords": ["kick", "limb"],
+    "char": "🦿",
+    "fitzpatrick_scale": false,
     "category": "people"
   },
   "handshake": {
@@ -851,6 +869,12 @@
     "fitzpatrick_scale": true,
     "category": "people"
   },
+  "pinching_hand": {
+    "keywords": ["hand", "fingers"],
+    "char": "🤏",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
   "selfie": {
     "keywords": ["camera", "phone"],
     "char": "🤳",
@@ -884,6 +908,12 @@
   "ear": {
     "keywords": ["face", "hear", "sound", "listen"],
     "char": "👂",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "ear_with_hearing_aid": {
+    "keywords": ["face", "hear", "sound", "listen"],
+    "char": "🦻",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -1688,6 +1718,78 @@
   "man_in_steamy_room": {
     "keywords": ["male", "man", "spa", "steamroom", "sauna"],
     "char": "🧖‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_deaf": {
+    "keywords": ["woman", "female"],
+    "char": "🧏‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_deaf": {
+    "keywords": ["man", "male"],
+    "char": "🧏‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_standing": {
+    "keywords": ["woman", "female"],
+    "char": "🧍‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_standing": {
+    "keywords": ["man", "male"],
+    "char": "🧍‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_kneeling": {
+    "keywords": ["woman", "female"],
+    "char": "🧎‍♀️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_kneeling": {
+    "keywords": ["man", "male"],
+    "char": "🧎‍♂️",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_with_probing_cane": {
+    "keywords": ["woman", "female"],
+    "char": "👩‍🦯",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_with_probing_cane": {
+    "keywords": ["man", "male"],
+    "char": "👨‍🦯",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_in_motorized_wheelchair": {
+    "keywords": ["woman", "female"],
+    "char": "👩‍🦼",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_in_motorized_wheelchair": {
+    "keywords": ["man", "male"],
+    "char": "👨‍🦼",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "woman_in_manual_wheelchair": {
+    "keywords": ["woman", "female"],
+    "char": "👩‍🦽",
+    "fitzpatrick_scale": true,
+    "category": "people"
+  },
+  "man_in_manual_wheelchair": {
+    "keywords": ["man", "male"],
+    "char": "👨‍🦽",
     "fitzpatrick_scale": true,
     "category": "people"
   },
@@ -6312,7 +6414,7 @@
     "category": "objects"
   },
   "heart": {
-    "keywords": ["love", "like", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines"],
     "char": "❤️",
     "fitzpatrick_scale": false,
     "category": "symbols"
@@ -6347,12 +6449,25 @@
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
+  "brown_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "🤎",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
   "black_heart": {
-    "keywords": ["evil"],
+    "keywords": ["love", "like", "affection", "valentines"],
     "char": "🖤",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
+  "white_heart": {
+    "keywords": ["love", "like", "affection", "valentines"],
+    "char": "🤍",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+
   "broken_heart": {
     "keywords": ["sad", "sorry", "break", "heart", "heartbreak"],
     "char": "💔",

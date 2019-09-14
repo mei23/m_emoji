@@ -6937,13 +6937,13 @@
     "category": "symbols"
   },
   "u7a7a": {
-    "keywords": ["kanji", "japanese", "chinese", "empty", "sky", "blue-square"],
+    "keywords": ["kanji", "japanese", "chinese", "empty", "sky", "blue-square", "aki"],
     "char": "🈳",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u5272": {
-    "keywords": ["cut", "divide", "chinese", "kanji", "pink-square"],
+    "keywords": ["cut", "divide", "chinese", "kanji", "pink-square", "waribiki"],
     "char": "🈹",
     "fitzpatrick_scale": false,
     "category": "symbols"
@@ -6973,31 +6973,31 @@
     "category": "symbols"
   },
   "u6709": {
-    "keywords": ["orange-square", "chinese", "have", "kanji"],
+    "keywords": ["orange-square", "chinese", "have", "kanji", "ari"],
     "char": "🈶",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u7121": {
-    "keywords": ["nothing", "chinese", "kanji", "japanese", "orange-square"],
+    "keywords": ["nothing", "chinese", "kanji", "japanese", "orange-square", "nashi"],
     "char": "🈚",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u7533": {
-    "keywords": ["chinese", "japanese", "kanji", "orange-square"],
+    "keywords": ["chinese", "japanese", "kanji", "orange-square", "moushikomi"],
     "char": "🈸",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u55b6": {
-    "keywords": ["japanese", "opening hours", "orange-square"],
+    "keywords": ["japanese", "opening hours", "orange-square", "eigyo"],
     "char": "🈺",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u6708": {
-    "keywords": ["chinese", "month", "moon", "japanese", "orange-square", "kanji"],
+    "keywords": ["chinese", "month", "moon", "japanese", "orange-square", "kanji", "tsuki", "tsukigime", "getsugaku"],
     "char": "🈷️",
     "fitzpatrick_scale": false,
     "category": "symbols"
@@ -7045,19 +7045,19 @@
     "category": "symbols"
   },
   "u5408": {
-    "keywords": ["japanese", "chinese", "join", "kanji", "red-square"],
+    "keywords": ["japanese", "chinese", "join", "kanji", "red-square", "goukaku", "pass"],
     "char": "🈴",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u6e80": {
-    "keywords": ["full", "chinese", "japanese", "red-square", "kanji"],
+    "keywords": ["full", "chinese", "japanese", "red-square", "kanji", "man"],
     "char": "🈵",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
   "u7981": {
-    "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square"],
+    "keywords": ["kanji", "japanese", "chinese", "forbidden", "limit", "restricted", "red-square", "kinshi"],
     "char": "🈲",
     "fitzpatrick_scale": false,
     "category": "symbols"
@@ -7279,7 +7279,7 @@
     "category": "symbols"
   },
   "u6307": {
-    "keywords": ["chinese", "point", "green-square", "kanji"],
+    "keywords": ["chinese", "point", "green-square", "kanji", "reserved", "shiteiseki"],
     "char": "🈯",
     "fitzpatrick_scale": false,
     "category": "symbols"

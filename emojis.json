@@ -2039,9 +2039,33 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "one_piece_swimsuit": {
+    "keywords": ["swimming", "female", "woman", "girl", "fashion", "beach", "summer"],
+    "char": "🩱",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "kimono": {
     "keywords": ["dress", "fashion", "women", "female", "japanese"],
     "char": "👘",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "sari": {
+    "keywords": ["dress", "fashion", "women", "female"],
+    "char": "🥻",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "briefs": {
+    "keywords": ["dress", "fashion"],
+    "char": "🩲",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "shorts": {
+    "keywords": ["dress", "fashion"],
+    "char": "🩳",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -2102,6 +2126,12 @@
   "hiking_boot": {
     "keywords": ["backpacking", "camping", "hiking"],
     "char": "🥾",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
+  "ballet_shoes": {
+    "keywords": ["shoes", "sports"],
+    "char": "🩰",
     "fitzpatrick_scale": false,
     "category": "people"
   },
@@ -2837,6 +2867,48 @@
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
+  "orangutan": {
+    "keywords": ["animal", "nature"],
+    "char": "🦧",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "guide_dog": {
+    "keywords": ["animal", "nature"],
+    "char": "🦮",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "service_dog": {
+    "keywords": ["animal", "nature"],
+    "char": "🐕‍🦺",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "sloth": {
+    "keywords": ["animal", "nature"],
+    "char": "🦥",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "otter": {
+    "keywords": ["animal", "nature"],
+    "char": "🦦",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "skunk": {
+    "keywords": ["animal", "nature"],
+    "char": "🦨",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "flamingo": {
+    "keywords": ["animal", "nature"],
+    "char": "🦩",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
   "cactus": {
     "keywords": ["vegetable", "plant", "nature"],
     "char": "🌵",
@@ -3020,6 +3092,12 @@
   "earth_asia": {
     "keywords": ["globe", "world", "east", "international"],
     "char": "🌏",
+    "fitzpatrick_scale": false,
+    "category": "animals_and_nature"
+  },
+  "ringed_planet": {
+    "keywords": ["saturn"],
+    "char": "🪐",
     "fitzpatrick_scale": false,
     "category": "animals_and_nature"
   },
@@ -3455,6 +3533,18 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "garlic": {
+    "keywords": ["food"],
+    "char": "🧄",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "onion": {
+    "keywords": ["food"],
+    "char": "🧅",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "honey_pot": {
     "keywords": ["bees", "sweet", "kitchen"],
     "char": "🍯",
@@ -3791,6 +3881,30 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "waffle": {
+    "keywords": ["food"],
+    "char": "🧇",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "falafel": {
+    "keywords": ["food"],
+    "char": "🧆",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "butter": {
+    "keywords": ["food"],
+    "char": "🧈",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "oyster": {
+    "keywords": ["food"],
+    "char": "🦪",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "milk_glass": {
     "keywords": ["beverage", "drink", "cow"],
     "char": "🥛",
@@ -3872,6 +3986,24 @@
   "baby_bottle": {
     "keywords": ["food", "container", "milk"],
     "char": "🍼",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "beverage_box": {
+    "keywords": ["food", "drink"],
+    "char": "🧃",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "mate": {
+    "keywords": ["food", "drink"],
+    "char": "🧉",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "ice_cube": {
+    "keywords": ["food"],
+    "char": "🧊",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -4277,6 +4409,30 @@
     "fitzpatrick_scale": true,
     "category": "activity"
   },
+  "diving_mask": {
+    "keywords": ["sports"],
+    "char": "🤿",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "yo_yo": {
+    "keywords": ["sports"],
+    "char": "🪀",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "kite": {
+    "keywords": ["sports"],
+    "char": "🪁",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
+  "safety_vest": {
+    "keywords": ["sports"],
+    "char": "🦺",
+    "fitzpatrick_scale": true,
+    "category": "activity"
+  },
   "business_suit_levitating": {
     "keywords": ["suit", "business", "levitate", "hover", "jump"],
     "char": "🕴",
@@ -4433,6 +4589,12 @@
     "fitzpatrick_scale": false,
     "category": "activity"
   },
+  "banjo": {
+    "keywords": ["music", "instrument"],
+    "char": "🪕",
+    "fitzpatrick_scale": false,
+    "category": "activity"
+  },
   "clapper": {
     "keywords": ["movie", "film", "record"],
     "char": "🎬",
@@ -4586,6 +4748,30 @@
   "motor_scooter": {
     "keywords": ["vehicle", "vespa", "sasha"],
     "char": "🛵",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
+  "manual_wheelchair": {
+    "keywords": ["vehicle"],
+    "char": "🦽",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
+  "motorized_wheelchair": {
+    "keywords": ["vehicle"],
+    "char": "🦼",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
+  "auto_rickshaw": {
+    "keywords": ["vehicle"],
+    "char": "🛺",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
+  "parachute": {
+    "keywords": ["vehicle"],
+    "char": "🪂",
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
@@ -5201,6 +5387,12 @@
     "fitzpatrick_scale": false,
     "category": "travel_and_places"
   },
+  "hindu_temple": {
+    "keywords": ["temple"],
+    "char": "🛕",
+    "fitzpatrick_scale": false,
+    "category": "travel_and_places"
+  },
   "watch": {
     "keywords": ["time", "accessories"],
     "char": "⌚",
@@ -5573,6 +5765,18 @@
     "fitzpatrick_scale": false,
     "category": "objects"
   },
+  "axe": {
+    "keywords": ["tools"],
+    "char": "🪓",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  "probing_cane": {
+    "keywords": ["tools"],
+    "char": "🦯",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
   "nut_and_bolt": {
     "keywords": ["handy", "tools", "fix"],
     "char": "🔩",
@@ -5735,6 +5939,30 @@
     "fitzpatrick_scale": false,
     "category": "objects"
   },
+  "drop_of_blood": {
+    "keywords": ["health", "hospital", "medicine", "needle", "doctor", "nurse"],
+    "char": "🩸",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  "adhesive_bandage": {
+    "keywords": ["health", "hospital", "medicine", "needle", "doctor", "nurse"],
+    "char": "🩹",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  "stethoscope": {
+    "keywords": ["health", "hospital", "medicine", "needle", "doctor", "nurse"],
+    "char": "🩺",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  "razor": {
+    "keywords": ["health"],
+    "char": "🪒",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
   "dna": {
     "keywords": ["biologist", "genetics", "life"],
     "char": "🧬",
@@ -5849,6 +6077,12 @@
     "fitzpatrick_scale": false,
     "category": "objects"
   },
+  "diya_Lamp": {
+    "keywords": ["light", "oil"],
+    "char": "🪔",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
   "sleeping_bed": {
     "keywords": ["bed", "rest"],
     "char": "🛌",
@@ -5864,6 +6098,12 @@
   "door": {
     "keywords": ["house", "entry", "exit"],
     "char": "🚪",
+    "fitzpatrick_scale": false,
+    "category": "objects"
+  },
+  "chair": {
+    "keywords": ["house", "desk"],
+    "char": "🪑",
     "fitzpatrick_scale": false,
     "category": "objects"
   },
@@ -7716,6 +7956,36 @@
     "fitzpatrick_scale": false,
     "category": "symbols"
   },
+  "orange_circle": {
+    "keywords": ["shape"],
+    "char": "🟠",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "yellow_circle": {
+    "keywords": ["shape"],
+    "char": "🟡",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "green_circle": {
+    "keywords": ["shape"],
+    "char": "🟢",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "purple_circle": {
+    "keywords": ["shape"],
+    "char": "🟣",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "brown_circle": {
+    "keywords": ["shape"],
+    "char": "🟤",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
   "small_orange_diamond": {
     "keywords": ["shape", "jewel", "gem"],
     "char": "🔸",
@@ -7767,6 +8037,48 @@
   "white_large_square": {
     "keywords": ["shape", "icon", "stone", "button"],
     "char": "⬜",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "red_square": {
+    "keywords": ["shape"],
+    "char": "🟥",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "orange_square": {
+    "keywords": ["shape"],
+    "char": "🟧",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "yellow_square": {
+    "keywords": ["shape"],
+    "char": "🟨",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "green_square": {
+    "keywords": ["shape"],
+    "char": "🟩",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "blue_square": {
+    "keywords": ["shape"],
+    "char": "🟦",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "purple_square": {
+    "keywords": ["shape"],
+    "char": "🟪",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
+  },
+  "brown_square": {
+    "keywords": ["shape"],
+    "char": "🟫",
     "fitzpatrick_scale": false,
     "category": "symbols"
   },

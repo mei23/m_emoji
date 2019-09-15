@@ -12,9 +12,20 @@ async function main() {
 	}
 
 	let s = JSON.stringify(a);
+
 	s = s.replace(/},/g, '},\n');
 	s = s.replace(/^\[{/, '[\n{');
 	s = s.replace(/}\]/g, '}\n]');
+
+	s = s.replace(/{"/g, '{ "');
+	s = s.replace(/]}/g, '] }');
+	s = s.replace(/,/g, ', ');
+	s = s.replace(/:/g, ': ');
+
+	s = s.replace(/\s+\n/g, '\n');
+
+	s = s.replace(/^{/gm, '\t{');
+
 	console.log(s);
 }
 

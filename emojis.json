@@ -8580,12 +8580,6 @@
     "fitzpatrick_scale": false,
     "category": "flags"
   },
-  "bouvet_island": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇧🇻",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
   "brazil": {
     "keywords": ["br", "flag", "nation", "country", "banner"],
     "char": "🇧🇷",
@@ -8670,12 +8664,6 @@
     "fitzpatrick_scale": false,
     "category": "flags"
   },
-  "ceuta_and_melilla": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇪🇦",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
   "chad": {
     "keywords": ["td", "flag", "nation", "country", "banner"],
     "char": "🇹🇩",
@@ -8697,12 +8685,6 @@
   "christmas_island": {
     "keywords": ["christmas", "island", "flag", "nation", "country", "banner"],
     "char": "🇨🇽",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
-  "clipperton_island": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇨🇵",
     "fitzpatrick_scale": false,
     "category": "flags"
   },
@@ -8781,12 +8763,6 @@
   "denmark": {
     "keywords": ["dk", "flag", "nation", "country", "banner"],
     "char": "🇩🇰",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
-  "diego_garcia": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇩🇬",
     "fitzpatrick_scale": false,
     "category": "flags"
   },
@@ -9003,12 +8979,6 @@
   "haiti": {
     "keywords": ["ht", "flag", "nation", "country", "banner"],
     "char": "🇭🇹",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
-  "heard_and_mcdonald_islands": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇭🇲",
     "fitzpatrick_scale": false,
     "category": "flags"
   },
@@ -9558,12 +9528,6 @@
     "fitzpatrick_scale": false,
     "category": "flags"
   },
-  "st_martin": {
-    "keywords": ["saint", "flag", "nation", "country", "banner"],
-    "char": "🇲🇫",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
   "st_pierre_miquelon": {
     "keywords": ["saint", "pierre", "miquelon", "flag", "nation", "country", "banner"],
     "char": "🇵🇲",
@@ -9726,12 +9690,6 @@
     "fitzpatrick_scale": false,
     "category": "flags"
   },
-  "svalbard_and_jan_mayen": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇸🇯",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
   "syria": {
     "keywords": ["syrian", "arab", "republic", "flag", "nation", "country", "banner"],
     "char": "🇸🇾",
@@ -9879,12 +9837,6 @@
   "us_virgin_islands": {
     "keywords": ["virgin", "islands", "us", "flag", "nation", "country", "banner"],
     "char": "🇻🇮",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
-  "us_outlying_islands": {
-    "keywords": ["um", "flag", "nation", "country", "banner"],
-    "char": "🇺🇲",
     "fitzpatrick_scale": false,
     "category": "flags"
   },

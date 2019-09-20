@@ -8400,12 +8400,6 @@
     "fitzpatrick_scale": false,
     "category": "flags"
   },
-  "ascension_island": {
-    "keywords": ["flag", "nation", "country", "banner"],
-    "char": "🇦🇨",
-    "fitzpatrick_scale": false,
-    "category": "flags"
-  },
   "aland_islands": {
     "keywords": ["Åland", "islands", "flag", "nation", "country", "banner"],
     "char": "🇦🇽",
@@ -8475,6 +8469,12 @@
   "aruba": {
     "keywords": ["aw", "flag", "nation", "country", "banner"],
     "char": "🇦🇼",
+    "fitzpatrick_scale": false,
+    "category": "flags"
+  },
+  "ascension_island": {
+    "keywords": ["flag", "nation", "country", "banner"],
+    "char": "🇦🇨",
     "fitzpatrick_scale": false,
     "category": "flags"
   },

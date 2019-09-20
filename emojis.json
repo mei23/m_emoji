@@ -9871,13 +9871,13 @@
     "category": "flags"
   },
   "us": {
-    "keywords": ["united", "states", "us", "america", "flag", "nation", "country", "banner"],
+    "keywords": ["united", "states", "america", "flag", "nation", "country", "banner"],
     "char": "🇺🇸",
     "fitzpatrick_scale": false,
     "category": "flags"
   },
   "us_virgin_islands": {
-    "keywords": ["virgin", "islands", "vi", "flag", "nation", "country", "banner"],
+    "keywords": ["virgin", "islands", "us", "flag", "nation", "country", "banner"],
     "char": "🇻🇮",
     "fitzpatrick_scale": false,
     "category": "flags"
